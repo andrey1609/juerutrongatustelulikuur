@@ -1,0 +1,4 @@
+baseURL = "https://songbeautyxeu3.vercel.app"
+languageCode = "en-us"
+title = "Love Music Songs"
+theme = "hugo-theme-minos"
